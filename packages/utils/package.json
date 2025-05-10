@@ -1,6 +1,6 @@
 {
   "name": "@zyz-cli/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "@zyz-cli/utils",
   "author": "zhangyuzhu <1580006194@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5497437e24906a905260a5cb54970b3f92dfe092"
+  "gitHead": "0c59e7b4b6936b26b64feb2efdbbd5723e01b8f1"
 }
