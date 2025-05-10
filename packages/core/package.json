@@ -1,6 +1,6 @@
 {
   "name": "@zyz-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "@zyz-cli/core",
   "author": "zhangyuzhu <zhangyuzhu0177@163.com.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zyz-cli/utils": "^1.0.1"
+    "@zyz-cli/utils": "^1.0.2"
   },
   "gitHead": "5497437e24906a905260a5cb54970b3f92dfe092"
 }
