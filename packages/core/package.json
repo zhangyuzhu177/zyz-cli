@@ -13,10 +13,14 @@
   "files": [
     "lib"
   ],
+  "bin": {
+    "zyz-cli": "bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "@zyz-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "5497437e24906a905260a5cb54970b3f92dfe092"
 }
