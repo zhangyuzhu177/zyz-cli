@@ -1,0 +1,22 @@
+{
+  "name": "@zyz-cli/core",
+  "version": "1.0.0",
+  "description": "@zyz-cli/core",
+  "author": "zhangyuzhu <zhangyuzhu0177@163.com.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@zyz-cli/utils": "^1.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "zyz-cli",
+  "version": "1.0.0",
+  "description": "zyz-cli",
+  "keywords": [
+    "cli"
+  ],
+  "author": "zhangyuzhu",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
